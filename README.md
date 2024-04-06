@@ -1,5 +1,5 @@
 # CS6700: Reinforcement Learning Programming Assignment 2
-by Shreya .S. Ramanujam (EE21B126) and Srikar Babu Gadipudi (EE21B138)
+by Srikar Babu Gadipudi (EE21B138) and  Shreya .S. Ramanujam (EE21B126)
 
 Programming Assignment on Dueling DQN and Monte-Carlo REINFORCE algorithms for the environments CartPole-v1 and Acrobot-v1.
 
